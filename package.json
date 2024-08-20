@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vite": "^5.4.1"
+  },
+  "name": "shantoresume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
